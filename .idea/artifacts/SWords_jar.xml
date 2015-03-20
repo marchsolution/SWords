@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SWords:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SWords_jar</output-path>
+    <root id="archive" name="SWords.jar">
+      <element id="module-output" name="SWords" />
+    </root>
+  </artifact>
+</component>
